@@ -1,6 +1,6 @@
 # Manchester Council Expenditure ETL Pipeline
 
-Objective
+Objective:
 Build an end-to-end ETL pipeline in Python to ingest, clean, and analyze Manchester City Council expenditure data. The project demonstrates practical data engineering skills—data extraction, transformation, validation, and loading—using a real-world financial dataset. Insights generated support transparency, financial analysis, and public sector decision-making.
 
 Features
